@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1616944512 source:d:\____aulas_puc\__2021_1\ac2lab\rel06_teste\teste_cpp\teste_tempo\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<string.h>
+	<stdio.h>
+	<time.h>
+
+1634047305 source:d:\____aulas_puc\2021_1\ac2lab\rel06_teste\teste_cpp\teste_cpp\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<string.h>
+	<stdio.h>
+	<time.h>
+
